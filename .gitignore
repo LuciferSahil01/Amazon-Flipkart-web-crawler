@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+http_ca.crt
+.env
+Cred.txt
